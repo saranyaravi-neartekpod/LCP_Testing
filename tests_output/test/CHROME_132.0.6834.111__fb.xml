@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test.fb"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="12.65" timestamp="">
+  
+    <testcase name="Extract Facebook Logo Text" classname="test.fb" time="6.324" assertions="2">
+
+      <failure message="Timed out while waiting for element &lt;//i[@class=&#39;fb_logo img sp_zdwpDYaFwZF sx_87fd58&#39;]&gt; to be present for 5000 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (5334ms)">    at Extract Facebook Logo Text (C:\sampletest\test\fb.js:6:10)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

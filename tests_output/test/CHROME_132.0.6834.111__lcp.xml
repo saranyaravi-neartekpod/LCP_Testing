@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test.lcp"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="0.1370" timestamp="">
+  
+    <testcase name="test" classname="test.lcp" time="0.06700" assertions="1">  <failure message="browser.url(...).pause(...).useXpath(...).setValue(...).pause(...).setValue(...).pause(...).cilck is not a function">TypeError: browser.url(...).pause(...).useXpath(...).setValue(...).pause(...).setValue(...).pause(...).cilck is not a function
+    at Object.test (C:\sampletest\test\lcp.js:11:2)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
