@@ -3,7 +3,7 @@ module.exports={
         browser.url("https://dev2.lcp.neartekpod.io/")
         .pause(3000)
         .useXpath()
-        .setValue("//input[@name='username']","iswarya.dinesh@neartekpod.com")
+        .setValue("//input[@name='username']","saranya.ravikalathi@neartekpod.com")
         .pause(1000)
         .setValue("//input[@id='password']","Qwerty@123")
         .pause(1000)
